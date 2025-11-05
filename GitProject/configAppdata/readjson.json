@@ -1,0 +1,7 @@
+{
+"url":https://o2.openmrs.org/openmrs/login.htm,
+"browser":chrome,
+"username":Admin,
+"password":Admin123,
+"timeout":20
+}
